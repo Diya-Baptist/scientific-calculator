@@ -2,6 +2,7 @@
 
 This project is a web based clone of MacOs scientific calculator with all logarithmic,trignometric etc calculations available and some extra features as light/dark mode and you can see past calculation history too.
 
+And it is confetti calculator as 5 and 6 are entered together it shows 🎊.
 ## Available Scripts
 
 In the project directory, you can run:
