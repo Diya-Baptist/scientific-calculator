@@ -1,0 +1,23 @@
+.display {
+  background: #333;
+  color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  text-align: right;
+  font-family: 'Roboto', sans-serif;
+}
+
+.input {
+  font-size: 24px;
+  text-align: right;
+  margin-bottom: 10px;
+}
+
+.result {
+  font-size: 32px;
+  font-weight: bold;
+  text-align: right;
+  color: #888;
+  font-size: 1.5rem;
+}

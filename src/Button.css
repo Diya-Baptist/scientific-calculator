@@ -1,0 +1,27 @@
+.button {
+  background: #4c4c4c;
+  border: none;
+  color: rgb(245, 248, 250);
+  padding: 20px;
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
+  cursor: pointer;
+  border-radius: 2px;
+  transition: background 0.3s ease;
+}
+
+.button:hover {
+  background: #ddd;
+}
+
+.button.orange {
+  background-color: orange;
+}
+
+.button.double-width {
+  grid-column: span 2;
+}
+
+.button.grey {
+  background-color: rgb(175, 172, 172);
+}
